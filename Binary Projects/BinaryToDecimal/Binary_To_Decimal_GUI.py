@@ -1,6 +1,7 @@
 import customtkinter as ctk
 from tkinter import messagebox
 
+
 def bin_to_decimal(bin_string: str) -> int:
     """
     Convert a binary value to its decimal equivalent
