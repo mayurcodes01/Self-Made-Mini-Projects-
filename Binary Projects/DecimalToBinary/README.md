@@ -13,10 +13,6 @@ A simple and stylish **GUI application** built using **Python** and **CustomTkin
 
 ---
 
-## Preview  
-
-D:\Py\Temp_Images\Decimaltobinary_Output.png
-
 ## Requirements  
 Make sure you have the following installed before running the project:  
 
