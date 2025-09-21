@@ -46,6 +46,8 @@ Quote_Generator/
 3. Install dependencies:
    ```bash
    pip install -r requirements.txt
+   or
+   pip install customtkinter nltk requests
    ```
 
 ---
