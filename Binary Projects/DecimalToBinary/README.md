@@ -14,9 +14,8 @@ A simple and stylish **GUI application** built using **Python** and **CustomTkin
 ---
 
 ## Preview  
-(You can add a screenshot of your app here later for better presentation)
 
----
+---D:\Py\Temp_Images\Decimaltobinary_Output.png
 
 ## Requirements  
 Make sure you have the following installed before running the project:  
