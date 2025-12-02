@@ -1,3 +1,16 @@
+WARNING:-This project is developed strictly for demonstration purposes.
+It is not designed for long-term use.
+No database integration is included.
+Future database support is not planned.
+All data handling is temporary.
+Nothing is stored permanently.
+The system should not be used for real records.
+It should not be used in production.
+Only basic functionality is implemented.
+The project is meant for learning and testing.
+Any future expansion is not permitted.
+Use this system only within its current limits.
+------------------------------------------------------------------------
 # Personalized Quote Generator
 
 A desktop application built with **Python** and **CustomTkinter** that fetches random quotes from the ZenQuotes API and transforms them into different styles such as funny, motivational, or poetic.
